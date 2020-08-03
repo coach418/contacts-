@@ -2,13 +2,17 @@
     "contacts": [
         {
                 
-                "question": "Why did the chicken cross the road",
-                "address": "To get to the other side "
+                "question": "What does the following segment of Java code print out?
+                            double x = 4.5 
+                            int y = (int)x; 
+                            System.out.println(x+" "+y)",
+                "address": "This prints out:
+                                4.5 4"
                 
         },
         {
                 
-                "question": "What does a monster say on New Years",
+                "question": " ",
                 "address": "Happy new fear"
                 
         },
