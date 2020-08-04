@@ -15,8 +15,8 @@
        {
                 
                 "question": "What does the following segment of Java code print out?\n for (int i=1; i<30; i = i + 3) \n{\n if (i%2 == 0) \nSystem.out.print((i/2)+\"  \");\n} \n System.out.println();",
-                "answer": "As we go through the loop, i takes on the values 1, 4, 7, 10, 13, 16, 19, 22, 25 and 28. Of these, the even values (those that pass the if statement test) are 4, 10, 16, 22 and 28. If we divide each of these by 2, we get the output:
-2 5 8 11 14 "
+                "answer": "As we go through the loop, i takes on the values 1  4  7  10  13  16  19  22  25 and 28. Of these, the even values (those that pass the if statement test) are 4  10 16  22 and 28. If we divide each of these by 2, we get the output:
+                 2 5 8 11 14 "
                 
         },
         {
