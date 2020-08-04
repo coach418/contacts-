@@ -21,14 +21,15 @@
         },
         {
                 
-                "question": "What color is the sun",
-                "answer": "I looked for a couple of mintues and its black "
+                "question": "Write a Java program to divide two numbers and print on the screen.",
+                "answer": "System.out.println(50/3); "
                 
         },
         {
                 
-                "question": "What do you call an alligator detective? ",
-                "answer": "An investi-gator "
+                "question": "Write a Java program to print the area and perimeter of a rectangle",
+                "answer": " final double width = 5.6;\n final double height = 8.5;\n double perimeter = 2*(height + width);\n double area = width * height;			
+		\n System.out.printf(\"Perimeter is 2*(%.1f + %.1f) = %.2f \" \n height, width, perimeter);\n System.out.printf(\"Area is %.1f * %.1f = %.2f \"  width, height, area);"
                 
         },
         {
