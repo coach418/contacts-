@@ -2,7 +2,7 @@
     "contacts": [
         {
                 
-                "question": "What does the following segment of Java code print out?\n double x = 4.5;\n int y = (int)x;\nSystem.out.println(\"x +" "+ y\")",
+                "question": "What does the following segment of Java code print out?\n double x = 4.5;\n int y = (int)x;\nSystem.out.println(\"x +/" /"+ y\")",
                 "address": "This prints out:/n4.5, 4"
                 
         },
