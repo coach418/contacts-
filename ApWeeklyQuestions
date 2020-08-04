@@ -1,0 +1,82 @@
+{
+    "questionanswer": [
+        {
+                
+                "question": "What does the following segment of Java code print out?\n double x = 4.5;\n int y = (int)x;\nSystem.out.println(x +\"  \" + y)",
+                "answer": "This prints out:\n 4.5, 4"
+                
+        },
+        {
+                
+                "question": "What is the monsters new yeear called ? ",
+                "answer": "Happy new fear"
+                
+        },
+       {
+                
+                "question": "Can a Kangaroo jump higher then the Empire State Building ",
+                "answer": "Of course the Empire State Building Cant Jump "
+                
+        },
+        {
+                
+                "question": "What color is the sun",
+                "answer": "I looked for a couple of mintues and its black "
+                
+        },
+        {
+                
+                "question": "What do you call an alligator detective? ",
+                "answer": "An investi-gator "
+                
+        },
+        {
+                
+                "question": "What is it called when its raining ducks and geese?",
+                "answer": "Fowl weather "
+                
+        },
+        {
+                
+                "question": "What do toads drink on a hot summer days?",
+                "answer": "Ice cold croak-a-cola!  "
+                
+        },
+        {
+                
+                "question": "What lights up a soccer stadium? ",
+                "answer": "A soccer match."
+                
+        },
+        {
+                
+                "question": "What does the sun drink out of?",
+                "answer": "Sunglasses! "
+                
+        },
+       {
+                
+                "question": "What's the best letter to have in summer? ",
+                "answer": "Iced Tea "
+                
+        },
+       {
+                
+                "question": "How do you prevent a summer cold?",
+                "answer": "Catch it in the winter  "
+                
+        },
+        {
+                
+                "question": "Why is the sun so smart?",
+                "answer": "It has over 5000 degrees "
+                
+        },
+       {
+                
+                "question": "Where are French Fries cooked ",
+                "answer": "In Greece "
+                
+        }
+    ]
+}
