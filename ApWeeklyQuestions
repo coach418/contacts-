@@ -8,8 +8,9 @@
         },
         {
                 
-                "question": "What is the monsters new yeear called ? ",
-                "answer": "Happy new fear"
+                "question": "What does the following segment of Java code print out?\nint x = 7,\n y = 3;\n int z = x/y + x%y;\n if (z == x)y++;\n if (z == y)x++;\n System.out.println(x+" "+y+" "+z);
+ ",
+                "answer": "This prints out:/n 8,3,3"
                 
         },
        {
